@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="turntable_icons">
+    <file>icons/cat-memes-pictures.jpg</file>
+    <file>icons/window_icon.png</file>
+  </qresource>
+</RCC>
